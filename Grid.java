@@ -1,3 +1,12 @@
+/*
+This is a GUI based minesweeper game that looks exactly one that supplied with Windows OS.
+Developed by: P K Subudhi
+Contact Mail: maiktopksubudhi@gmail.com
+WhatsApp: +91-8895174939
+Website: www.pksubudhi.com
+Tweeter: @Pksubudhi
+*/
+
 import java.util.*;
 public class Grid {
 	private boolean[][] bombGrid;
